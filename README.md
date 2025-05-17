@@ -7,6 +7,7 @@ Smooth ORM, or Saft ORM, or Super ORM, what ever.
 - Code first, but not SQL first.
 - Type-safe, as much as possible.
 - No literal strings to build SQl, as less as possible.
+- No reflection in SQL building and running.
 
 # TODO
 
